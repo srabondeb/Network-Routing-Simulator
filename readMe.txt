@@ -2,7 +2,7 @@
 JAVA NETWORK ROUTING SIMULATOR (DVR vs LSR)
 
 Project Info
-- Author: Srabon Debnath
+- Author: Srabon Debnath & Alex Soto-Yapura
 - Course: CS455 (Computer Networks)
 - Assignment: Routing Simulator (DVR vs LSR)
 - Date: Nov 2025 – Dec 2025
